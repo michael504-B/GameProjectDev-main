@@ -1051,10 +1051,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Left Mouse Button: Fire Laserbeam \n\nMouse: Aim\n\nThe player has five
-    lives total. each time the player's health hits zero a mini-game will pop up,
-    which will allow you reclaim your health by taking away one of your lives.\n\nThe
-    player controls a Mech \n\n"
+  m_Text: "Left Mouse Button: Fire Laserbeam \n\nMouse: Aim\n\nClose the game by
+    Pressing the \"escape(Esc)\" button.\n\n"
 --- !u!222 &1310259336
 CanvasRenderer:
   m_ObjectHideFlags: 0

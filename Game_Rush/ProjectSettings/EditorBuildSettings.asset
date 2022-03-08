@@ -15,16 +15,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Level.unity
     guid: 63e7426a805f86f41adcbc7428a2c43d
   - enabled: 1
-    path: Assets/Scenes/Menus Scene/ControlScheme.unity
+    path: Assets/Scenes/Menus Scene/Player-Controls&Mini-Game controls/ControlScheme.unity
     guid: b750dcc4f942c514c9c32a795d110dcd
   - enabled: 1
-    path: Assets/Scenes/Menus Scene/Mini-Game Controls.unity
+    path: Assets/Scenes/Menus Scene/Player-Controls&Mini-Game controls/Mini-Game
+      Controls.unity
     guid: c12cf5688a896e74c9d048401101c992
   - enabled: 1
-    path: Assets/Scenes/Menus Scene/EnemyInfo.unity
+    path: Assets/Scenes/Menus Scene/ExtraScenes/CharactersInfo.unity
     guid: e15f6f5015cee29458eeb82cf30bfeeb
   - enabled: 1
-    path: Assets/Scenes/Menus Scene/Extra&Credits.unity
+    path: Assets/Scenes/Menus Scene/ExtraScenes/GameMechanics.unity
+    guid: 289f5d86c33139741ba5277be3c18772
+  - enabled: 1
+    path: Assets/Scenes/Menus Scene/CreditsScene/Credits.unity
     guid: b1e7dfa21eb88a24b9fc216a039a126f
   - enabled: 1
     path: Assets/Scenes/Menus Scene/GameOver.unity

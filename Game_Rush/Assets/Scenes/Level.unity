@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1530,6 +1530,7 @@ GameObject:
   - component: {fileID: 579528648}
   - component: {fileID: 579528649}
   - component: {fileID: 579528650}
+  - component: {fileID: 579528651}
   m_Layer: 0
   m_Name: PlayerContainer
   m_TagString: Untagged
@@ -1592,6 +1593,18 @@ MonoBehaviour:
   enemiesDestroyed: 0
   enemySpawner: {fileID: 1736070219}
   enemies: 0
+--- !u!114 &579528651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 579528647}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 994201ce6787c2443b52536209d2ea54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &582318716
 GameObject:
   m_ObjectHideFlags: 0

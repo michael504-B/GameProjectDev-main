@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Extra : MonoBehaviour
+public class CharactersInfo : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,8 +16,9 @@ public class Extra : MonoBehaviour
     {
         
     }
-    public void GameExtra()
+
+    public void EnemyAndCharacterInfo()
     {
-        SceneManager.LoadScene("GameMechanics");
+        SceneManager.LoadScene("CharactersInfo");
     }
 }
